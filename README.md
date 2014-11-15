@@ -20,7 +20,7 @@ source("http://bioconductor.org/biocLite.R")
 biocLite("EBImage")
 ```
 
-Vignette for using EBImage can be found [here]. (http://watson.nci.nih.gov/bioc_mirror/packages/2.13/bioc/manuals/EBImage/man/EBImage.pdf)
+Vignette for using EBImage can be found [here] (http://watson.nci.nih.gov/bioc_mirror/packages/2.13/bioc/manuals/EBImage/man/EBImage.pdf).
 
 ## Pre-processing
 1. Choosing a representative set of images
