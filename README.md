@@ -1,10 +1,10 @@
-Image processing of dental X-Ray images
+Dental X-Ray images processing
 =============
 
 This repository contains a script for reading, transforming and performing analysis of dental X-ray images.
 
 ## Data
-The data set contains 17 high resolution X-Ray images stored in TIFF format. Due to the specific nature of this data set
+Data set contains 17 high resolution X-Ray images stored in TIFF format. Due to the specific nature of this data set
 it is not publicly available
 
 ## Prerequisites
@@ -20,7 +20,7 @@ source("http://bioconductor.org/biocLite.R")
 biocLite("EBImage")
 ```
 
-Vignette for using EBImage can be found [here] (http://watson.nci.nih.gov/bioc_mirror/packages/2.13/bioc/manuals/EBImage/man/EBImage.pdf)
+Vignette for using EBImage can be found [here]. (http://watson.nci.nih.gov/bioc_mirror/packages/2.13/bioc/manuals/EBImage/man/EBImage.pdf)
 
 ## Pre-processing
 1. Choosing a representative set of images
@@ -28,4 +28,4 @@ Vignette for using EBImage can be found [here] (http://watson.nci.nih.gov/bioc_m
 3. Transforming to gray-scale
 
 ## Transformations
-1. 
+1. Histogram analysis
