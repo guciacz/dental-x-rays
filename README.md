@@ -12,7 +12,7 @@ it is not publicly available
 
 ### Packages
 - TIFF
-- EPImage
+- EBImage
 
 
 ```R
